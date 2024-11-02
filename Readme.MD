@@ -58,4 +58,4 @@ The **Olympic Tickets Management System** is a comprehensive web application des
 7. **Support** 🤝
     For questions or issues, please contact:
 Project Lead: Chandana Madha
-Contributors: Tulasi SSN Borra, Raj Kumar, SaiHarshith Kovvuri
+Contributors: Tulasi Siva Sai Nagarjuna Borra, Raj Kumar, SaiHarshith Kovvuri
